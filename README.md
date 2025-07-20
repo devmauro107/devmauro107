@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋! Meu nome é mauro, seja bem vindo.</h1>
+<h1 align="center">Olá 👋! Meu nome é Mauro, sejam bem vindos.</h1>
 
 ###
 
